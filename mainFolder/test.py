@@ -108,3 +108,4 @@ if metrics['psnr']:
     print(f"Average LPIPS: {avg_lpips:.4f}")
 else:
     print("No HR images found for comparison.")
+    
