@@ -75,3 +75,13 @@ First, clone this repository to your local machine.
     ```bash
     npm start
     ```
+
+### Using the Application
+
+Once the setup is complete, you can upload a low-resolution satellite image through the website interface. The model will process the image and enhance its resolution.
+
+-**Performance Note:**
+-On an **RTX-4060 GPU**, the processing is lightning-fast.
+-On a **CPU**, the process may take approximately **10 minutes**.
+
+ After the model completes processing, the enhanced image will be automatically downloaded to your system.
