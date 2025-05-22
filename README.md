@@ -89,7 +89,7 @@ Once the setup is complete, you can upload a low-resolution satellite image thro
 
 ### Comparison of Low-Resolution and Enhanced Images
 
-Below is an example comparison between a low-resolution satellite image and its enhanced version processed by the model:
+Below is an example comparison between a sub-region of low-resolution satellite image and its enhanced version processed by the model:
 
 | Low-Resolution Image | Enhanced Image |
 |-----------------------|----------------|
