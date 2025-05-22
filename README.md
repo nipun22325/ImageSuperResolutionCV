@@ -86,3 +86,13 @@ Once the setup is complete, you can upload a low-resolution satellite image thro
 - On a **CPU**, the process may take approximately **10 minutes** to complete.
 
  After the model completes processing, the enhanced image will be automatically downloaded to your system.
+
+### Comparison of Low-Resolution and Enhanced Images
+
+Below is an example comparison between a low-resolution satellite image and its enhanced version processed by the model:
+
+| Low-Resolution Image | Enhanced Image |
+|-----------------------|----------------|
+| ![Low-Resolution](images/low_res_input.jpg) | ![Enhanced](images/enhanced_output.jpg) |
+
+> **Note:** The images above are for demonstration purposes. Actual results may vary depending on the input image quality and system performance.
