@@ -93,6 +93,6 @@ Below is an example comparison between a low-resolution satellite image and its 
 
 | Low-Resolution Image | Enhanced Image |
 |-----------------------|----------------|
-| ![Low-Resolution](samples/low_res_input.jpg) | ![Enhanced](samples/enhanced_output.jpg) |
+| ![Low-Resolution](samples/low_res_input.jpg){width=300px height=300px} | ![Enhanced](samples/enhanced_output.jpg){width=300px height=300px} |
 
 > **Note:** The images above are for demonstration purposes. Actual results may vary depending on the input image quality and system performance.
