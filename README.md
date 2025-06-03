@@ -80,6 +80,12 @@ First, clone this repository to your local machine.
 
 Once the setup is complete, you can upload a low-resolution satellite image through the website interface. The model will process the image and enhance its resolution.
 
+### User Interface of the Website
+
+![websiteImage](samples/website.png)
+![enhancingImage](samples/enhancing.png)
+![downloadedImage](samples/downloaded.png)
+
 ### Performance Note
 
 - On an **RTX-4060 GPU**, the processing is significantly faster, providing near-instant results.
